@@ -21,6 +21,7 @@
 | [0015-3sum](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@
 | [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +79,8 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0021-merge-two-sorted-lists) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
