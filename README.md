@@ -22,4 +22,8 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0005-longest-palindromic-substring) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
