@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0035-search-insert-position) |
 ## Binary Search
@@ -24,6 +25,7 @@
 | [0005-longest-palindromic-substring](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0008-string-to-integer-atoi) |
+| [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0017-letter-combinations-of-a-phone-number) |
 ## Dynamic Programming
 |  |
@@ -59,4 +61,8 @@
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0029-divide-two-integers) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
