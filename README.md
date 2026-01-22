@@ -12,6 +12,7 @@
 | [0066-plus-one](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0136-single-number](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0136-single-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | ------- |
 | [0029-divide-two-integers](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0136-single-number) |
 ## Trie
 |  |
 | ------- |
