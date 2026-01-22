@@ -27,6 +27,7 @@
 | [0008-string-to-integer-atoi](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0008-string-to-integer-atoi) |
 | [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0020-valid-parentheses) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -65,4 +66,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
