@@ -9,6 +9,7 @@
 | [0015-3sum](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0066-plus-one) |
 ## Binary Search
 |  |
 | ------- |
@@ -43,6 +44,7 @@
 | [0007-reverse-integer](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0066-plus-one) |
 ## Greedy
 |  |
 | ------- |
