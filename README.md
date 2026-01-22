@@ -33,6 +33,7 @@
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0029-divide-two-integers) |
 ## Greedy
 |  |
 | ------- |
@@ -53,4 +54,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
