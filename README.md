@@ -7,6 +7,7 @@
 | [0011-container-with-most-water](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0015-3sum) |
+| [0027-remove-element](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
@@ -19,6 +20,7 @@
 | [0011-container-with-most-water](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0027-remove-element) |
 ## String
 |  |
 | ------- |
