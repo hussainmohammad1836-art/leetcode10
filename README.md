@@ -110,12 +110,19 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0100-same-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0100-same-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
