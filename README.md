@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0069-sqrtx) |
 ## Two Pointers
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0029-divide-two-integers](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/hussainmohammad1836-art/leetcode10/tree/master/0069-sqrtx) |
 ## Greedy
 |  |
 | ------- |
