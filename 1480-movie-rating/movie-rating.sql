@@ -1,5 +1,3 @@
-# Write your MySQL query statement below
-# Write your MySQL query statement below
 (SELECT name as results FROM MovieRating JOIN Users USING(user_id)
 GROUP BY name
 ORDER BY COUNT(*) DESC , name
